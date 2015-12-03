@@ -2,12 +2,13 @@ name: Hardel Videography
 favicon: null
 layout_spectrum: 1
 typography_spectrum: 0.59102
+title: Hardel Videography
 cta:
   domain: null
   bucket: null
   version: null
 analytics:
-  google: null
+  google: UA-54230823-1
   facebook: null
   twitter: null
 opengraph:
