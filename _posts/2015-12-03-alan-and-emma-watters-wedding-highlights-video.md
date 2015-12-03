@@ -1,7 +1,7 @@
 ---
 inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: en
 starred: false
 keywords:
@@ -16,8 +16,8 @@ keywords:
   - emma
   - alan
 description: 26.07.2014 - Wedding Highlights Video
-datePublished: '2015-12-03T23:09:01.850Z'
-dateModified: '2015-12-03T23:08:55.353Z'
+datePublished: '2015-12-03T23:14:21.756Z'
+dateModified: '2015-12-03T23:14:14.537Z'
 author:
   - name: Hardel Videography
     url: 'https://www.youtube.com/user/hardelvid'
@@ -34,7 +34,7 @@ app_links:
     package: com.google.android.youtube
   - url: 'https://www.youtube.com/watch?v=-5PxCuTXh1I&feature=applinks'
     type: web
-title: "Alan & Emma's Wedding"
+title: "Alan & Emma's Wedding - 26.Jul.2014"
 sourcePath: _posts/2015-12-03-alan-and-emma-watters-wedding-highlights-video.md
 published: true
 authors: []
@@ -48,7 +48,9 @@ _type: VideoObject
 _context: 'http://schema.org'
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9ca0b0ee-0e11-48d6-aac8-0ba196d9079b.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ede0e27a957d9b68534d3d31734f48df915889ff.jpg)
+
+# Alan & Emma's Wedding - 26.Jul.2014
 
 We have finished the video for Alan and Emma, but we wanted you to get the chance to see a snapshot of the day!
 
