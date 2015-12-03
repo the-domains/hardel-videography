@@ -1,7 +1,7 @@
 name: Hardel Videography
 favicon: null
 layout_spectrum: 1
-typography_spectrum: 0.59102
+typography_spectrum: 0.93539
 title: Hardel Videography
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#937a68'
     - '#fefefe'
     - '#f7a86f'
-  brandStrength: 0.8125
-  lightness: 0.5484682198148221
-  saturation: 0.3125
-  rhythmicContrast: 0.5479068704880774
+  brandStrength: 0.5
+  lightness: 0.5625
+  saturation: 0.4375
+  rhythmicContrast: 0.5
 purpose: []
