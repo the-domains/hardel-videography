@@ -1,8 +1,7 @@
 ---
 inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: 'https://www.youtube.com/watch?v=-5PxCuTXh1I'
+hasPage: true
+inNav: true
 inLanguage: en
 starred: false
 keywords:
@@ -17,8 +16,8 @@ keywords:
   - emma
   - alan
 description: "26.07.2014 - Trailer for Alan and Emma Watters' wedding video. Music track used: \"Happy Just To Be Here (Instrumental)\" by Matt Harvey - licensed by Audiosocket."
-datePublished: '2015-12-03T22:49:07.572Z'
-dateModified: '2015-12-03T22:44:58.176Z'
+datePublished: '2015-12-03T22:56:58.798Z'
+dateModified: '2015-12-03T22:51:31.845Z'
 author:
   - name: Hardel Videography
     url: 'https://www.youtube.com/user/hardelvid'
@@ -36,14 +35,15 @@ app_links:
   - url: 'https://www.youtube.com/watch?v=-5PxCuTXh1I&feature=applinks'
     type: web
 title: "Alan & Emma Watters' Wedding Highlights Video"
+sourcePath: _posts/2015-12-03-alan-and-emma-watters-wedding-highlights-video.md
+published: true
 authors: []
 publisher:
   name: YouTube
   domain: www.youtube.com
   url: 'https://www.youtube.com/'
   favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-sourcePath: _posts/2015-12-03-alan-and-emma-watters-wedding-highlights-video.md
-published: true
+url: alan-and-emma-watters-wedding-highlights-video/index.html
 _type: VideoObject
 _context: 'http://schema.org'
 
