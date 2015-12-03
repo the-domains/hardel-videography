@@ -1,25 +1,25 @@
 ---
 inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: Services and Pricing
-datePublished: '2015-12-03T22:48:59.734Z'
-dateModified: '2015-12-03T21:51:49.891Z'
+datePublished: '2015-12-03T22:56:54.607Z'
+dateModified: '2015-12-03T22:51:22.814Z'
 title: 'What Do You Do, and How Much?'
 author: []
+sourcePath: _posts/2015-12-03-what-do-you-do-and-how-much.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-03-what-do-you-do-and-how-much.md
-published: true
 url: what-do-you-do-and-how-much/index.html
-_type: Blurb
+_type: WebPage
 
 ---
 We know how important wedding days are -- but we also know that engagement parties, birthdays and many other events are important too. Some people have higher prices for weddings compared to other events -- we don't do that! We have one base price for all!
