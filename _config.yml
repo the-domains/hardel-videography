@@ -1,7 +1,7 @@
 name: Hardel Videography
 favicon: null
-layout_spectrum: 0.4172816255595535
-typography_spectrum: 0.7220447768922895
+layout_spectrum: 1
+typography_spectrum: 0.59102
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-  brandStrength: 0.7822153659071773
+    - '#141414'
+    - '#504040'
+    - '#937a68'
+    - '#fefefe'
+    - '#f7a86f'
+  brandStrength: 0.8125
   lightness: 0.5484682198148221
-  saturation: 0.2626606647390872
+  saturation: 0.3125
   rhythmicContrast: 0.5479068704880774
 purpose: []
