@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 05.06.2015 - Wedding Photography Preview
-datePublished: '2015-12-04T03:07:22.739Z'
-dateModified: '2015-12-04T03:07:17.395Z'
+datePublished: '2015-12-04T03:09:04.203Z'
+dateModified: '2015-12-04T03:08:59.276Z'
 author: []
 title: "Peter & Leetahl's Wedding - 05.June.2015"
 sourcePath: _posts/2015-12-04-peter-and-leetahls-wedding-05june2015.md
