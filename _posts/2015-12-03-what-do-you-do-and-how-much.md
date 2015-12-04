@@ -5,10 +5,10 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: Services and Pricing
-datePublished: '2015-12-03T22:56:54.607Z'
-dateModified: '2015-12-03T22:51:22.814Z'
-title: 'What Do You Do, and How Much?'
+description: ''
+datePublished: '2015-12-04T00:03:21.620Z'
+dateModified: '2015-12-04T00:03:10.428Z'
+title: 'What do you do, and how much does it cost?'
 author: []
 sourcePath: _posts/2015-12-03-what-do-you-do-and-how-much.md
 published: true
@@ -22,7 +22,9 @@ url: what-do-you-do-and-how-much/index.html
 _type: WebPage
 
 ---
-We know how important wedding days are -- but we also know that engagement parties, birthdays and many other events are important too. Some people have higher prices for weddings compared to other events -- we don't do that! We have one base price for all!
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6073046e-e79d-41c6-9656-2dbb9ec470d2.jpg)
+
+# What do you do, and how much does it cost?
 
 Our main videography service is valued at $600, which gives you 1 videographer to cover your event for 3 hours and provide a 4-8 minute highlights video on a USB. This can be for any event!
 
