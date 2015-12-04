@@ -3,21 +3,21 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
-description: ''
-datePublished: '2015-12-04T00:23:34.454Z'
-dateModified: '2015-12-04T00:21:22.590Z'
+description: 05.06.2015 - Wedding Photography Preview
+datePublished: '2015-12-04T00:24:32.309Z'
+dateModified: '2015-12-04T00:24:30.012Z'
 author: []
 title: "Peter & Leetahl's Wedding - 05.June.2015"
+sourcePath: _posts/2015-12-04-peter-and-leetahls-wedding-05june2015.md
+published: true
 authors: []
 publisher:
   name: ''
   domain: ''
   url: null
   favicon: null
-sourcePath: _posts/2015-12-04-peter-and-leetahls-wedding-05june2015.md
-published: true
 url: peter-and-leetahls-wedding-05june2015/index.html
 _context: 'http://schema.org'
 _type: Article
