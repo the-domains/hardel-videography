@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-04T00:09:13.768Z'
-dateModified: '2015-12-04T00:09:08.117Z'
+datePublished: '2015-12-04T00:39:14.036Z'
+dateModified: '2015-12-04T00:38:44.711Z'
 title: 'What do we do, and how much does it cost?'
 author: []
 sourcePath: _posts/2015-12-03-what-do-you-do-and-how-much.md
@@ -22,9 +22,8 @@ url: what-do-you-do-and-how-much/index.html
 _type: WebPage
 
 ---
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/c659c156966609a28cc78ef3e2045024057cae7d.jpg)
-
 # What do we do, and how much does it cost?
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/05fbb5313b57b97ef5a10a466ba7d733e0eec355.jpg)
 
 Our main videography service is valued at $600, which gives you 1 videographer to cover your event for 3 hours and provide a 4-8 minute highlights video on a USB. This can be for any event!
 
