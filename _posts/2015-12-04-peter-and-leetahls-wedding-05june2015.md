@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: 05.06.2015 - Wedding Photography Preview
-datePublished: '2015-12-04T02:53:36.792Z'
-dateModified: '2015-12-04T02:53:30.642Z'
+datePublished: '2015-12-04T02:58:18.997Z'
+dateModified: '2015-12-04T02:58:13.920Z'
 author: []
 title: "Peter & Leetahl's Wedding - 05.June.2015"
 sourcePath: _posts/2015-12-04-peter-and-leetahls-wedding-05june2015.md
@@ -24,7 +24,7 @@ _type: Article
 
 ---
 # Peter & Leetahl's Wedding - 05.June.2015
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/429e09c815a79bbf6daa8e9aac4e0f26baefba3f.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ddbe8f1f-3234-4add-80b7-7aa36e644cb4.jpg)
 
 It is always a great pleasure to be invited to join in the celebration of close friends, but for Peter and Leetahl it was an even greater privilege to be asked to be their wedding photographer! The weather on the days leading up to their wedding was all raining with a chill in the air - but on the day there was blue sky and a beautiful warmth from the sun - perfect outdoor weather for their family from here in Sydney, across the country, New Zealand, Cambodia and Israel.
 
