@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 26.07.2015 - Wedding Video Preview
-datePublished: '2015-12-04T01:47:55.262Z'
-dateModified: '2015-12-04T01:47:47.799Z'
+datePublished: '2015-12-04T01:54:16.283Z'
+dateModified: '2015-12-04T01:54:12.739Z'
 title: "Alan & Emma's Wedding - 26.July.2014"
 author: []
 sourcePath: _posts/2015-12-04-alan-and-emmas-wedding-26july2014.md
@@ -23,7 +23,7 @@ _type: Article
 
 ---
 # Alan & Emma's Wedding - 26.July.2014
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/010f392a-9558-4765-8511-1b0e383e9689.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/103a051788f514d524547efaf382bf8cac7dd78c.jpg)
 
 Check out the preview here: [youtu.be/-5PxCuTXh1I][0]
 
