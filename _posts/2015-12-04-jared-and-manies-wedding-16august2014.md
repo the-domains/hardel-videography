@@ -6,24 +6,24 @@ inLanguage: null
 starred: false
 keywords: []
 description: 16.08.2014 - Wedding Video Preview
-datePublished: '2015-12-04T01:42:24.166Z'
-dateModified: '2015-12-04T01:41:30.805Z'
+datePublished: '2015-12-04T01:50:20.220Z'
+dateModified: '2015-12-04T01:50:15.373Z'
 title: "Jared & Manie's Wedding - 16.August.2014"
 author: []
+sourcePath: _posts/2015-12-04-jared-and-manies-wedding-16august2014.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-04-jared-and-manies-wedding-16august2014.md
-published: true
 url: jared-and-manies-wedding-16august2014/index.html
 _type: Article
 
 ---
 # Jared & Manie's Wedding - 16.August.2014
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d3440446-5ceb-4100-b4d2-98fb139e2dff.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f4b2eb95-37d9-45e0-82b0-d764d062b031.jpg)
 
 A BIG congratulations to Jared and Manie Athavle on their wedding Saturday just passed!
 
