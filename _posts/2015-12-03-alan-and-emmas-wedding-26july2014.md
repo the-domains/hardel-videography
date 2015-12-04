@@ -16,8 +16,8 @@ keywords:
   - emma
   - alan
 description: 26.07.2014 - Wedding Video Preview
-datePublished: '2015-12-03T23:53:44.561Z'
-dateModified: '2015-12-03T23:53:36.896Z'
+datePublished: '2015-12-04T00:11:46.268Z'
+dateModified: '2015-12-04T00:11:08.081Z'
 author:
   - name: Hardel Videography
     url: 'https://www.youtube.com/user/hardelvid'
@@ -35,14 +35,14 @@ app_links:
   - url: 'https://www.youtube.com/watch?v=-5PxCuTXh1I&feature=applinks'
     type: web
 title: "Alan & Emma's Wedding - 26.July.2014"
+sourcePath: _posts/2015-12-03-alan-and-emmas-wedding-26july2014.md
+published: true
 authors: []
 publisher:
   name: YouTube
   domain: www.youtube.com
   url: 'https://www.youtube.com/'
   favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-sourcePath: _posts/2015-12-03-alan-and-emmas-wedding-26july2014.md
-published: true
 url: alan-and-emmas-wedding-26july2014/index.html
 _type: VideoObject
 _context: 'http://schema.org'
