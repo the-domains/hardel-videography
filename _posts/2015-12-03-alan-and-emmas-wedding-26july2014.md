@@ -16,8 +16,8 @@ keywords:
   - emma
   - alan
 description: 26.07.2014 - Wedding Video Preview
-datePublished: '2015-12-04T00:23:22.910Z'
-dateModified: '2015-12-04T00:23:17.168Z'
+datePublished: '2015-12-04T00:46:27.744Z'
+dateModified: '2015-12-04T00:42:11.085Z'
 author:
   - name: Hardel Videography
     url: 'https://www.youtube.com/user/hardelvid'
