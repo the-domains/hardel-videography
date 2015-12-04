@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: 05.06.2015 - Wedding Photography Preview
-datePublished: '2015-12-04T02:45:00.229Z'
-dateModified: '2015-12-04T02:44:48.678Z'
+datePublished: '2015-12-04T02:53:36.792Z'
+dateModified: '2015-12-04T02:53:30.642Z'
 author: []
 title: "Peter & Leetahl's Wedding - 05.June.2015"
 sourcePath: _posts/2015-12-04-peter-and-leetahls-wedding-05june2015.md
@@ -24,9 +24,9 @@ _type: Article
 
 ---
 # Peter & Leetahl's Wedding - 05.June.2015
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8d98fd21-7abf-4173-800d-a081668f480e.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/429e09c815a79bbf6daa8e9aac4e0f26baefba3f.jpg)
 
-It is always a great pleasure to be invited to join in the celebration of close friends, but for Peter and Leetahl it was an even greater privilege to be asked to be their wedding photographer! Andrew worked solo to capture their wedding day, which in the lead-up to their big day was raining with a chill in the air. But on the day, there was blue sky, warmth from the sun and family from here in Australia, across the country, New Zealand, Cambodia and Israel.
+It is always a great pleasure to be invited to join in the celebration of close friends, but for Peter and Leetahl it was an even greater privilege to be asked to be their wedding photographer! The weather on the days leading up to their wedding was all raining with a chill in the air - but on the day there was blue sky and a beautiful warmth from the sun - perfect outdoor weather for their family from here in Sydney, across the country, New Zealand, Cambodia and Israel.
 
 We had the chance to have a lot of fun with some location shots, and are excited to share some of those (and other) photos from the day.
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/c6d85e1cdc7808b5586041f51d5eb1b7d31bcf04.png)
