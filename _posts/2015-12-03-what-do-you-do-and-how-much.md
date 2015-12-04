@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-04T03:14:51.712Z'
-dateModified: '2015-12-04T03:14:44.678Z'
+datePublished: '2015-12-04T03:28:37.669Z'
+dateModified: '2015-12-04T03:28:25.834Z'
 title: 'What do we do, and how much does it cost?'
 author: []
 sourcePath: _posts/2015-12-03-what-do-you-do-and-how-much.md
