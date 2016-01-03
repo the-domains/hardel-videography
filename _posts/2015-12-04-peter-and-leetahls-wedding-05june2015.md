@@ -6,35 +6,35 @@ inLanguage: null
 starred: false
 keywords: []
 description: 05.06.2015 - Wedding Photos
-datePublished: '2015-12-04T03:22:05.668Z'
-dateModified: '2015-12-04T03:21:18.374Z'
+datePublished: '2016-01-03T23:02:22.203Z'
+dateModified: '2016-01-03T23:02:13.305Z'
 title: "Peter & Leetahl's Wedding - 05.June.2015"
 author: []
+sourcePath: _posts/2015-12-04-peter-and-leetahls-wedding-05june2015.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-04-peter-and-leetahls-wedding-05june2015.md
-published: true
 url: peter-and-leetahls-wedding-05june2015/index.html
 _type: Article
 
 ---
 # Peter & Leetahl's Wedding - 05.June.2015
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f344249b-5ca1-435a-b501-9ddda0760bca.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/c377ccf577906f829e64e15592d74b5ec1c56421.jpg)
 
 It is always a great pleasure to be invited to join in the celebration of close friends, but for Peter and Leetahl it was an even greater privilege to be asked to be their wedding photographer! The weather on the days leading up to their wedding was all raining with a chill in the air - but on the day there was blue sky and a beautiful warmth from the sun - perfect outdoor weather for their family from here in Sydney, across the country, New Zealand, Cambodia and Israel.  
 We had the chance to have a lot of fun with some location shots, and are excited to share some of those (and other) photos from the day.
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/5435e730cf838486b55f0923eaebecb7b57ea07a.png)
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/f9e7fd11bee1647b262992551bfc64ea3295f8c1.png)
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/849ddd9d5879fe50f35c96785653dd22dca6d818.png)
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/267c9110d33b13f2c45ad8eba86a608616ee031d.png)
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/eebbda5664f91de8931a4e1a85489fbcbce4b34b.png)
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/f74232bc64554034b4d7a447ea5db38ffceae9a5.png)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e4b13656-a813-4ec5-bfc4-a2e0c0906c09.png)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f1cccf6a-4565-4db1-bdc8-81991866044c.png)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8ed6ee57-6f4e-4ec3-b137-4029d0800e39.png)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8c8269c2-ce1f-4bf9-a67a-a3d258b27572.png)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d5defeaf-5832-450e-8684-939c576dfbbf.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/daf353464407335cc0a7bca5b3c610873d851430.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/3774da64dc67fa1956ba92d43cdbc119fc5455e3.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/3aa41848dd19cfce47a093842fd9e0196d48e2b7.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/dab4c2df486b73f0ed9630d3ad624cb14d5c4279.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/9e7a789c9a38dc3b6565635600ebd5b5332def01.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/3e06ba2b23ef069c3895c119433673f2b01e33e8.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/bdd71c06902797158835376da617a7f97c911b18.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/26c00dee3718ac7c386e757974f48dadc264285d.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/69c95cfddf3fa73a9ea1e1368eb6d1687e0189b4.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/aa36daf419d1c4a8a6b42cd4052cffeeb395be6c.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/980fced8fd4f9ec4ca9750ca322d4073e24319ba.png)
