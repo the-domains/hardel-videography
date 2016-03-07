@@ -1,13 +1,14 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: ''
 inLanguage: null
 starred: false
 keywords: []
 description: 05.06.2015 - Wedding Photos
-datePublished: '2016-03-07T05:54:06.696Z'
-dateModified: '2016-03-07T05:52:49.047Z'
+datePublished: '2016-03-07T06:10:47.648Z'
+dateModified: '2016-03-07T06:09:21.786Z'
 title: "Peter & Lital's Wedding - 05.June.2015"
 author: []
 sourcePath: _posts/2015-12-04-peter-and-leetahls-wedding-05june2015.md
@@ -18,8 +19,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-url: peter-and-leetahls-wedding-05june2015/index.html
-_type: Article
+_type: Blurb
 
 ---
 # Peter & Lital's Wedding - 05.June.2015
