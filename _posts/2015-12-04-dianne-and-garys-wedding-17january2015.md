@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'In January, we were asked to film a wedding. Andrew worked on his own that day, but when he arrived, he discovered there wasn’t a photographer to cover the wedding. So, a decision was made to do something a little bit different… a little bit crazy – he covered both the videography AND photography for the day.'
-datePublished: '2016-05-11T03:09:37.866Z'
-dateModified: '2016-05-11T03:02:15.727Z'
+datePublished: '2016-05-11T03:19:00.988Z'
+dateModified: '2016-05-11T03:17:30.613Z'
 title: "Dianne & Gary's Wedding - 17.January.2015"
 author:
   - name: ''
