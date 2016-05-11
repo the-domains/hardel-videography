@@ -4,9 +4,9 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: 'It is always a great pleasure to be invited to join in the celebration of close friends, but for Peter and Lital it was an even greater privilege to be asked to be their wedding photographer! With people from other countries and from around Australia, it was a beautiful day to celebrate their marriage. Here are a few photos taken on the day.'
-datePublished: '2016-05-11T03:09:57.049Z'
-dateModified: '2016-05-11T03:09:56.313Z'
+description: 'It is always a great pleasure to be invited to join in the celebration of close friends, but for Peter and Lital it was an even greater privilege to be asked to be their wedding photographer!With people from other countries and from around Australia, it was a beautiful day to celebrate their marriage. Here are a few photos taken on the day.'
+datePublished: '2016-05-11T03:14:54.132Z'
+dateModified: '2016-05-11T03:14:18.285Z'
 title: ''
 author:
   - name: ''
@@ -18,7 +18,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-starred: false
+starred: true
 url: peter-and-litals-wedding-05june2015/index.html
 _type: Article
 
