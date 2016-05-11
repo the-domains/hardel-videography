@@ -3,27 +3,28 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
 keywords: []
-description: ''
-datePublished: '2015-12-04T02:11:03.152Z'
-dateModified: '2015-12-04T02:10:53.142Z'
+description: 'Check out the music video for "Phoenix" here: youtu.be/GEQ3ECmOdkg'
+datePublished: '2016-05-11T03:09:31.467Z'
+dateModified: '2016-05-11T03:09:30.782Z'
 title: Furious Penguin - Phoenix Music Video
-author: []
+author:
+  - name: ''
+    url: ''
+sourcePath: _posts/2015-12-04-furious-penguin-phoenix-music-video.md
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-04-furious-penguin-phoenix-music-video.md
-published: true
+starred: false
 url: furious-penguin-phoenix-music-video/index.html
 _type: Article
 
 ---
 # Furious Penguin - Phoenix Music Video
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/a5902e3c787d4be2aa3d3bef79a9e6e494235fcb.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/bdb5a4b4898b0127873a43c44bd8c07b9c9d1299.jpg)
 
 Check out the music video for "Phoenix" here: [youtu.be/GEQ3ECmOdkg][0]
 
