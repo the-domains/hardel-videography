@@ -6,8 +6,8 @@ isBasedOnUrl: 'https://vimeo.com/161584199'
 inLanguage: null
 keywords: []
 description: "Here is a sneak peek at Andrew & Jennifer's wedding day back in 2014, re-edited for online viewing. Harry filmed the day, and Andrew edited (and re-edited) the footage. ~ 05.April.2014"
-datePublished: '2016-05-13T02:15:11.942Z'
-dateModified: '2016-05-13T02:15:01.233Z'
+datePublished: '2016-05-13T02:16:06.731Z'
+dateModified: '2016-05-13T02:15:59.958Z'
 title: "140405 Andrew & Jennifer's Wedding"
 author:
   - name: ''
